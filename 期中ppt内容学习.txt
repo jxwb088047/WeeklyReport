@@ -1,0 +1,13 @@
+基础部分：
+http://www.cnblogs.com/tornadomeet/archive/2013/05/26/3100603.html
+http://blog.csdn.net/abcjennifer/article/details/7849812
+http://www.cnblogs.com/LeftNotEasy/archive/2011/05/02/basic-of-svm.html
+
+高阶部分：
+http://blog.sina.com.cn/s/blog_5033f3b40101kf2e.html
+http://www.xuebuyuan.com/1874411.html
+http://blog.csdn.net/maverick1990/article/details/16867367
+http://www.dataguru.cn/article-4795-1.html
+http://blog.csdn.net/stdcoutzyx/article/details/9774135
+http://blog.csdn.net/stdcoutzyx/article/details/9774135
+http://blog.csdn.net/stdcoutzyx/article/details/9722701
